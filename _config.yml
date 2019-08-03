@@ -17,10 +17,9 @@ title: austinorth.com
 description: 
   Site Reliability Engineer, Music Producer, Climate Activist, Child of God. James 1:27
 
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://austinorth.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: humblebroski 
 github_username: austinorth 
+soundcloud_username: humblebroski
 
 # Build settings
 markdown: kramdown
