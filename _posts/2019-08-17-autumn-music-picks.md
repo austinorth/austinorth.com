@@ -10,7 +10,7 @@ get chilly._
 
 # Genre Quick Links
 - [Indie, DIY and Folk](#indie,-diy-and-folk)
-- [Electronic Dance Music](#electronic-dance-music)
+- [Electronic Music](#electronic-music)
 - [Rap](#rap)
 - [BONUS Old Jazz and Classical](#bonus-old-jazz-and-classical)
 
@@ -38,7 +38,7 @@ seamless><a
 href="http://slaughterbeach.bandcamp.com/album/safe-and-also-no-fear">Safe And
 Also No Fear by Slaughter Beach, Dog</a></iframe>
 
-## Electronic Dance Music
+## Electronic Music
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no"
 allow="autoplay"
