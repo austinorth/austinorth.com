@@ -2,7 +2,7 @@
 layout: post
 title:  "Austin's Autumn Music Picks"
 ---
-![autumn](https://austinorth.com/assets/autumn.jpeg)
+![autumn](https://austinorth.com/assets/autumn.png)
 
 _A collection of music released this year or releasing this fall that 
 you should listen to as you watch the leaves change and feel the air 
