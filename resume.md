@@ -7,28 +7,18 @@ permalink: /resume/
 
 #### Site Reliability Engineer               August 2017 – Present
 Niche.com, Pittsburgh, PA
-- Engineering deployments, build automation and internal tooling.
-- Recent work: Bare metal Postgres 10 instance setup+tuned from scratch, automation of surrounding data transport processes w/ Docker, writing Golang AWS Lambda functions, beginning k8s testing.
 
 #### IT Customer Support Analyst        January 2017 – August 2017
 PPG Industries, Pittsburgh, PA
-- Provided international email and phone technical support to PPG employees, including Citrix, SAP, Oracle, and Active Directory account maintenance.
-- Worked with higher level teams to troubleshoot and resolve complex issues with technical infrastructure.
 
 #### Student Assistant                  September 2016 – December 2016
 University of Pittsburgh GSPIA IT Dept., Pittsburgh, PA
-- Provided hardware and software support to the students, faculty, and staff of the University of Pittsburgh Graduate School of Public and International Affairs.
-- Installed, updated, and maintained hardware and software for the department.
 
 #### ITS Student Support Specialist     September 2012 – May 2016
 Waynesburg University ITS Helpdesk, Waynesburg, Pennsylvania
-- Provided hardware and software support through phone and in person for over 1400 undergraduate students and over 100 faculty members.
-- Installed, updated, and maintained hardware and software for university departments.
 
 #### Student Workforce Trainee          June 2015 – April 2016
 FBI Center (CJIS) Clarksburg, WV and Pittsburgh Field Office of FBI
-- Obtained Top Secret clearance prior to employment.
-- Coded for Law Enforcement Enterprise Portal (LEEP.)
 
 ## Education
 #### 9 Master’s Level Computer Science Credits          August 2016 – December 2016
