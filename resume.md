@@ -5,7 +5,10 @@ permalink: /resume/
 ---
 ## Work Experience
 
-#### Site Reliability Engineer               August 2017 – Present
+#### Site Reliability Engineer               July 2019 – Present
+Niche.com, Pittsburgh, PA
+
+#### Infrastructure Engineer                 August 2017 – July 2019
 Niche.com, Pittsburgh, PA
 
 #### IT Customer Support Analyst        January 2017 – August 2017
