@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume 
+title: Resume
 permalink: /resume/
 ---
 ## Work Experience
@@ -36,15 +36,16 @@ Waynesburg University, Waynesburg, PA
 ## Skills
 #### Main Languages
 - Bash
+- k8s YAML
 - Golang
 - HCL
 - Python
 
 #### My Favorite Tools
+- Helm
+- Kops
 - Docker
-- Kubernetes
 - Terraform
-- Travis CI
 
 #### Other Software I Use Regularly/Maintain
 - Apache Kafka
@@ -52,15 +53,16 @@ Waynesburg University, Waynesburg, PA
 - CentOS 7
 - New Relic
 - NGINX
-- Postgres 11.4
+- Postgres 11
 - RStudio Server
 - Sumo Logic
-- Ubuntu 18.04
+- Ubuntu 18.04, 19.04
+- Vim
 
 ## Service Activities
+- Active member of Young Evangelicals for Climate Action (YECA), 2019 – present
 - Volunteer producer of Amplify Church City Campus podcasts in Pittsburgh, 2016 – present
-- Volunteer venue leader at Amplify Church, 2016 – present
-- Volunteer leader and mentor at The U College Ministry at Amplify Church in Pittsburgh, 2016 – present
+- Volunteer tech coordinator and mentor at the U College Ministry at Amplify Church, 2016 – present
 - Volunteer staff at Deer Valley YMCA Camp, occasionally on weekends, 2010 – present
 
 ## Scholarships and Awards
