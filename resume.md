@@ -36,15 +36,15 @@ Waynesburg University, Waynesburg, PA
 ## Skills
 #### Main Languages
 - Bash
-- k8s YAML
 - Golang
 - HCL
+- k8s YAML
 - Python
 
 #### My Favorite Tools
+- Docker
 - Helm
 - Kops
-- Docker
 - Terraform
 
 #### Other Software I Use Regularly/Maintain
@@ -56,21 +56,29 @@ Waynesburg University, Waynesburg, PA
 - Postgres 11
 - RStudio Server
 - Sumo Logic
-- Ubuntu 18.04, 19.04
+- Ubuntu 18.04, 19.10
 - Vim
 
 ## Service Activities
-- Active member of Young Evangelicals for Climate Action (YECA), 2019 – present
-- Volunteer producer of Amplify Church City Campus podcasts in Pittsburgh, 2016 – present
-- Volunteer tech coordinator and mentor at the U College Ministry at Amplify Church, 2016 – present
-- Volunteer staff at Deer Valley YMCA Camp, occasionally on weekends, 2010 – present
+- Active member of Young Evangelicals for Climate Action (YECA), 2019 –
+  present
+- Volunteer live sound and podcast producer of Amplify Church City
+  Campus in Pittsburgh, 2016 – present
+- Volunteer tech coordinator and mentor at the U College Ministry at
+  Amplify Church, 2016 – 2019 
+- Volunteer staff at Deer Valley YMCA Camp, occasionally on weekends,
+  2010 – present
 
 ## Scholarships and Awards
 - NFFTY Audience Award for Younger Finland film, October, 2018
 - Quality Champion at PPG Global IT Service Desk, May, 2017
 - Waynesburg University Presidential Honor Scholarship, 2012 – 2016
-- Waynesburg University Computer Science Departmental Scholarship, 2012 – 2016
-- Made a Difference; Deer Valley YMCA Family Camp Summer Staff Award, 2014
-- Academic Excellence Award from the Computer Science Department of Waynesburg University, 2014
-- Rookie of the Year; Deer Valley YMCA Family Camp Summer Staff Award, 2013
+- Waynesburg University Computer Science Departmental Scholarship, 2012
+  – 2016
+- Made a Difference; Deer Valley YMCA Family Camp Summer Staff Award,
+  2014
+- Academic Excellence Award from the Computer Science Department of
+  Waynesburg University, 2014
+- Rookie of the Year; Deer Valley YMCA Family Camp Summer Staff Award,
+  2013
 
