@@ -24,7 +24,10 @@ Waynesburg University ITS Helpdesk, Waynesburg, Pennsylvania
 FBI Center (CJIS) Clarksburg, WV and Pittsburgh Field Office of FBI
 
 ## Education
-#### 9 Master’s Level Computer Science Credits          August 2016 – December 2016
+#### Master of Business Administration, IT Management   March 2021 - TBD
+Southern New Hampshire University
+
+#### 9 Master’s Level Computer Science Credits          December 2016
 University of Pittsburgh, Pittsburgh, PA
 
 #### Bachelor of Science in Computer Science            May 2016
@@ -36,36 +39,35 @@ Waynesburg University, Waynesburg, PA
 ## Skills
 #### Main Languages
 - Bash
+- k8s YAML
+- Helm YAML
 - Golang
 - HCL
-- k8s YAML
-- Python
 
 #### My Favorite Tools
 - Docker
 - Helm
-- Kops
+- kOps
 - Terraform
 
 #### Other Software I Use Regularly/Maintain
 - Apache Kafka
 - AWS EC2, Lambda, RDS
-- CentOS 7
 - New Relic
 - NGINX
 - Postgres 11
-- RStudio Server
 - Sumo Logic
-- Ubuntu 18.04, 19.10
+- Ubuntu 18.04, 20.04
 - Vim
 
 ## Service Activities
 - Active member of Young Evangelicals for Climate Action (YECA), 2019 –
   present
-- Volunteer live sound and podcast producer of Amplify Church City
-  Campus in Pittsburgh, 2016 – present
+- Volunteer live sound engineer and young adults leader at Amplify
+  Church City Campus, 2016 – present
+- Volunteer producer of Amplify Church City Campus podcasts 2016 – 2019
 - Volunteer tech coordinator and mentor at the U College Ministry at
-  Amplify Church, 2016 – 2019 
+  Amplify Church, 2016 – 2019
 - Volunteer staff at Deer Valley YMCA Camp, occasionally on weekends,
   2010 – present
 
