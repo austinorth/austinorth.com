@@ -39,15 +39,15 @@ Waynesburg University, Waynesburg, PA
 ## Skills
 #### Main Languages
 - Bash
+- Helm chart YAML
 - k8s YAML
-- Helm YAML
 - Golang
 - HCL
 
 #### My Favorite Tools
-- Docker
 - Helm
 - kOps
+- Docker
 - Terraform
 
 #### Other Software I Use Regularly/Maintain
@@ -55,7 +55,7 @@ Waynesburg University, Waynesburg, PA
 - AWS EC2, Lambda, RDS
 - New Relic
 - NGINX
-- Postgres 11
+- Postgres 12
 - Sumo Logic
 - Ubuntu 18.04, 20.04
 - Vim
