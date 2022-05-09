@@ -5,26 +5,32 @@ permalink: /resume/
 ---
 ## Work Experience
 
-#### Site Reliability Engineer               July 2019 – Present
+#### Manager, Site Reliability Engineering              January 2021 – Present
 Niche.com, Pittsburgh, PA
 
-#### Infrastructure Engineer                 August 2017 – July 2019
+#### Site Reliability Engineer                          July 2019 – January 2021
 Niche.com, Pittsburgh, PA
 
-#### IT Customer Support Analyst        January 2017 – August 2017
+#### Infrastructure Engineer                            August 2018 – July 2019
+Niche.com, Pittsburgh, PA
+
+#### Associate Infrastructure Engineer                  August 2017 – July 2018
+Niche.com, Pittsburgh, PA
+
+#### IT Customer Support Analyst                        January 2017 – August 2017
 PPG Industries, Pittsburgh, PA
 
-#### Student Assistant                  September 2016 – December 2016
+#### Student Assistant                                  September 2016 – December 2016
 University of Pittsburgh GSPIA IT Dept., Pittsburgh, PA
 
-#### ITS Student Support Specialist     September 2012 – May 2016
+#### ITS Student Support Specialist                     September 2012 – May 2016
 Waynesburg University ITS Helpdesk, Waynesburg, Pennsylvania
 
-#### Student Workforce Trainee          June 2015 – April 2016
+#### Student Workforce Trainee                          June 2015 – April 2016
 FBI Center (CJIS) Clarksburg, WV and Pittsburgh Field Office of FBI
 
 ## Education
-#### Master of Business Administration, IT Management   March 2021 - TBD
+#### Master of Business Administration, IT Management   March 2021 - November 2023
 Southern New Hampshire University
 
 #### 9 Master’s Level Computer Science Credits          December 2016
@@ -47,8 +53,8 @@ Waynesburg University, Waynesburg, PA
 #### My Favorite Tools
 - Helm
 - kOps
-- Docker
 - Terraform
+- Docker
 
 #### Other Software I Use Regularly/Maintain
 - Apache Kafka
@@ -58,18 +64,17 @@ Waynesburg University, Waynesburg, PA
 - Postgres 12
 - Sumo Logic
 - Ubuntu 18.04, 20.04
-- Vim
 
 ## Service Activities
-- Active member of Young Evangelicals for Climate Action (YECA), 2019 –
-  present
 - Volunteer live sound engineer and young adults leader at Amplify
   Church City Campus, 2016 – present
+- Active member of Young Evangelicals for Climate Action (YECA), 2019 –
+  present
+- Volunteer staff at Deer Valley YMCA Camp, occasionally on weekends,
+  2010 – present
 - Volunteer producer of Amplify Church City Campus podcasts 2016 – 2019
 - Volunteer tech coordinator and mentor at the U College Ministry at
   Amplify Church, 2016 – 2019
-- Volunteer staff at Deer Valley YMCA Camp, occasionally on weekends,
-  2010 – present
 
 ## Scholarships and Awards
 - NFFTY Audience Award for Younger Finland film, October, 2018
