@@ -32,7 +32,7 @@ FBI Center (CJIS) Clarksburg, WV and Pittsburgh Field Office of FBI
 ## Education
 #### Master of Business Administration, IT Management   March 2021 - November 2023
 Southern New Hampshire University
-- Academic Dean's List; GPA 4.0
+- Honor Roll; GPA 4.0
 
 #### 9 Master’s Level Computer Science Credits          December 2016
 University of Pittsburgh, Pittsburgh, PA
@@ -65,9 +65,10 @@ Waynesburg University, Waynesburg, PA
 #### Other Software I Use Regularly/Maintain
 - Apache Kafka
 - AWS EC2, Lambda, RDS
+- Grafana, Prometheus
 - New Relic
 - Sumo Logic
-- Ubuntu 18.04, 20.04
+- Ubuntu 20.04, 22.04
 
 ## Service Activities
 - Volunteer live sound engineer and young adults leader at Amplify
