@@ -32,6 +32,7 @@ FBI Center (CJIS) Clarksburg, WV and Pittsburgh Field Office of FBI
 ## Education
 #### Master of Business Administration, IT Management   March 2021 - November 2023
 Southern New Hampshire University
+- Academic Dean's List; GPA 4.0
 
 #### 9 Master’s Level Computer Science Credits          December 2016
 University of Pittsburgh, Pittsburgh, PA
@@ -44,11 +45,16 @@ Waynesburg University, Waynesburg, PA
 
 ## Skills
 #### Main Languages
-- Bash
-- Helm chart YAML
-- k8s YAML
-- Golang
-- HCL
+- Proficient
+  - Bash
+  - Helm chart YAML
+  - k8s YAML
+  - HCL
+- Exposure
+  - Golang
+  - Python
+  - Ruby
+  - Rust
 
 #### My Favorite Tools
 - Helm
@@ -60,14 +66,12 @@ Waynesburg University, Waynesburg, PA
 - Apache Kafka
 - AWS EC2, Lambda, RDS
 - New Relic
-- NGINX
-- Postgres 12
 - Sumo Logic
 - Ubuntu 18.04, 20.04
 
 ## Service Activities
 - Volunteer live sound engineer and young adults leader at Amplify
-  Church City Campus, 2016 – present
+  Church City Campus, 2016 – 2022
 - Active member of Young Evangelicals for Climate Action (YECA), 2019 –
   present
 - Volunteer staff at Deer Valley YMCA Camp, occasionally on weekends,
