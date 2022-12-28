@@ -263,9 +263,9 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  github-pages
-  jekyll-feed (~> 0.6)
-  nokogiri (>= 1.10.4)
+  github-pages (~> 227)
+  jekyll-feed (~> 0.15.1)
+  nokogiri (>= 1.13.7)
   tzinfo-data
   webrick (~> 1.7)
 
