@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Chicken Fajita Quesadilla"
-date: 2021-12-17 22:11:17 -0500
-categories: food
 ---
 ### Ingredients
 - 1 tablespoon olive oil

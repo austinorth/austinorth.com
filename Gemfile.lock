@@ -265,6 +265,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 227)
   jekyll-feed (~> 0.15.1)
+  minima (~> 2.5)
   nokogiri (>= 1.13.7)
   tzinfo-data
   webrick (~> 1.7)

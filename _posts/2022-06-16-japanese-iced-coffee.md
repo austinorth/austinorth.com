@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "アイスコーヒー (Japanese-style Iced Coffee)"
-date: 2022-06-16 09:42:47 -0500
-categories: drinks
 ---
 _Adapted from [James Hoffmann's
 recipe](https://www.youtube.com/watch?v=PApBycDrPo0)._
