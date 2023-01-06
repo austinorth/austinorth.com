@@ -3,54 +3,80 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-## Work Experience
+<style>
+h4 {
+  margin-bottom: 0;
+}
+</style>
 
-#### Manager, Site Reliability Engineering              January 2021 – Present
-Niche.com, Pittsburgh, PA
+Work Experience
+---------------
+---------------
 
-#### Site Reliability Engineer                          July 2019 – January 2021
-Niche.com, Pittsburgh, PA
+### Niche.com, Pittsburgh, PA
 
-#### Infrastructure Engineer                            August 2018 – July 2019
-Niche.com, Pittsburgh, PA
+#### **Manager, Site Reliability Engineering**
+January 2021 – Present
+- Managing a team of four Site Reliability Engineers and one
+  Infrastructure Engineer. We support several product teams, as well as
+  work on our own projects, which are currently centered around
+  observability and security.
 
-#### Associate Infrastructure Engineer                  August 2017 – July 2018
-Niche.com, Pittsburgh, PA
+#### Site Reliability Engineer
+July 2019 – January 2021
 
-#### IT Customer Support Analyst                        January 2017 – August 2017
-PPG Industries, Pittsburgh, PA
+#### Infrastructure Engineer
+August 2018 – July 2019
 
-#### Student Assistant                                  September 2016 – December 2016
-University of Pittsburgh GSPIA IT Dept., Pittsburgh, PA
+#### Associate Infrastructure Engineer
+August 2017 – July 2018
 
-#### ITS Student Support Specialist                     September 2012 – May 2016
-Waynesburg University ITS Helpdesk, Waynesburg, Pennsylvania
+### PPG Industries, Pittsburgh, PA
+#### IT Customer Support Analyst
+January 2017 – August 2017
 
-#### Student Workforce Trainee                          June 2015 – April 2016
-FBI Center (CJIS) Clarksburg, WV and Pittsburgh Field Office of FBI
+### University of Pittsburgh GSPIA IT Dept., Pittsburgh, PA
+#### Student Assistant
+September 2016 – December 2016
 
-## Education
-#### Master of Business Administration, IT Management   March 2021 - November 2023
+### Waynesburg University ITS Helpdesk, Waynesburg, PA
+#### ITS Student Support Specialist
+September 2012 – May 2016
+
+### FBI Center (CJIS), Clarksburg, WV and Pittsburgh FBI Field Office
+#### Student Workforce Trainee
+June 2015 – April 2016
+
+Education
+---------
+---------
+
+#### Master of Business Administration, IT Management
 Southern New Hampshire University
+- Expected Graduation: November 2023
 - Honor Roll; GPA 4.0
 
-#### 9 Master’s Level Computer Science Credits          December 2016
-University of Pittsburgh, Pittsburgh, PA
+#### 9 Master’s Level Computer Science Credits
+University of Pittsburgh
+- Awarded December 2016
 
-#### Bachelor of Science in Computer Science            May 2016
-Waynesburg University, Waynesburg, PA
+#### Bachelor of Science in Computer Science
+Waynesburg University
+- Graduated Summa Cum Laude with Honors in May of 2016
 - Minor: Music
 - Academic Dean’s List; GPA 3.96
-- Graduated Summa Cum Laude with Honors
 
-## Skills
+Skills
+------
+------
+
 #### Main Languages
-- Proficient
+- **Proficient**
   - Bash
   - Helm chart YAML
   - k8s YAML
   - HCL
-- Exposure
+- **Exposure**
   - Golang
   - Python
   - Ruby
@@ -61,6 +87,7 @@ Waynesburg University, Waynesburg, PA
 - kOps
 - Terraform
 - Docker
+- GitHub Actions
 
 #### Other Software I Use Regularly/Maintain
 - Apache Kafka
