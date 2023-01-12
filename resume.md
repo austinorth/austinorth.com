@@ -17,16 +17,31 @@ Work Experience
 
 #### **Manager, Site Reliability Engineering**
 January 2021 – Present
-- Managing a team of four Site Reliability Engineers and one
-  Infrastructure Engineer. We support several product teams, as well as
-  work on our own projects, which are currently centered around
-  observability and security.
+- Managing a team of 4 SREs and 1 Infrastructure Engineer.
+- Hired and onboarded 2 of the SREs.
+- Also serving as project manager for the team due to its small size.
+- Roadmapped and helped coordinate the rollout of FluxCD and Grafana
+  Cloud.
+- Built out security and cost reporting for SRE operations.
 
 #### Site Reliability Engineer
 July 2019 – January 2021
+- Spearheaded the build out and standardization of the deployment of all
+  our Kubernetes clusters using Kops, Bash scripting, and Helm charts.
+- Migrated the company from TravisCI to Jenkins with Kaniko on
+  Kubernetes, then from Jenkins to GitHub Actions.
+- Was responsible for maintaining and building out all Terraform
+  modules.
+- Participated in 24/7 on-call rotation and responded to major security
+  and site downtime incidents.
 
 #### Infrastructure Engineer
 August 2018 – July 2019
+- Implemented a bare metal Postgres 11 instance setup and tuned from
+  scratch. Built automation of surrounding data transport processes w/
+  Docker and Python AWS Lambda serverless functions.
+- Administered and wrote deployment tooling using Terraform for the
+  Niche.com web application stack in AWS.
 
 #### Associate Infrastructure Engineer
 August 2017 – July 2018
@@ -75,7 +90,7 @@ Skills
   - Bash
   - Helm chart YAML
   - k8s YAML
-  - HCL
+  - Terraform and Packer HCL
 - **Exposure**
   - Golang
   - Python
