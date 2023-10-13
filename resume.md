@@ -17,8 +17,8 @@ Work Experience
 
 #### **Manager, Site Reliability Engineering**
 January 2021 – Present
-- Managing a team of 4 SREs and 1 Infrastructure Engineer.
-- Hired and onboarded 2 of the SREs.
+- Managing a team of 4 SREs and 2 Infrastructure Engineers.
+- Hired and onboarded all team members.
 - Also serving as project manager for the team due to its small size.
 - Roadmapped and helped coordinate the rollout of FluxCD and Grafana
   Cloud.
@@ -40,6 +40,8 @@ August 2018 – July 2019
 - Implemented a bare metal Postgres 11 instance setup and tuned from
   scratch. Built automation of surrounding data transport processes w/
   Docker and Python AWS Lambda serverless functions.
+- Assisted in converting our development environments from Hashicorp
+  Vagrant to Docker.
 - Administered and wrote deployment tooling using Terraform for the
   Niche.com web application stack in AWS.
 
@@ -66,9 +68,10 @@ Education
 ---------
 ---------
 
-#### Master of Business Administration, IT Management
+#### Master of Business Administration
 Southern New Hampshire University
-- Expected Graduation: November 2023
+- Graduated September 2023
+- Focus in IT Management
 - Honor Roll; GPA 4.0
 
 #### 9 Master’s Level Computer Science Credits
@@ -88,9 +91,10 @@ Skills
 #### Main Languages
 - **Proficient**
   - Bash
-  - Helm chart YAML
-  - k8s YAML
+  - YAML (Docker Compose, GitHub Actions, Kubernetes, Helm)
+  - Dockerfiles
   - Terraform and Packer HCL
+
 - **Exposure**
   - Golang
   - Python
@@ -98,24 +102,24 @@ Skills
   - Rust
 
 #### My Favorite Tools
+- Docker
 - Helm
 - kOps
 - Terraform
-- Docker
 - GitHub Actions
 
 #### Other Software I Use Regularly/Maintain
 - Apache Kafka
-- AWS EC2, Lambda, RDS
-- Grafana, Prometheus
+- AWS Products
+- Grafana & Prometheus
 - New Relic
 - Sumo Logic
-- Ubuntu 20.04, 22.04
+- Ubuntu 22.04
 
 ## Service Activities
 - Volunteer live sound engineer and young adults leader at Amplify
   Church City Campus, 2016 – 2022
-- Active member of Young Evangelicals for Climate Action (YECA), 2019 –
+- Member of Young Evangelicals for Climate Action (YECA), 2019 –
   present
 - Volunteer staff at Deer Valley YMCA Camp, occasionally on weekends,
   2010 – present
