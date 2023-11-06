@@ -17,36 +17,32 @@ Work Experience
 
 #### **Manager, Site Reliability Engineering**
 January 2021 – Present
-- Managing a team of 4 SREs and 2 Infrastructure Engineers.
-- Hired and onboarded all team members.
-- Also serving as project manager for the team due to its small size.
-- Roadmapped and helped coordinate the rollout of FluxCD and Grafana
-  Cloud.
-- Built out security and cost reporting for SRE operations.
+- Creating alignment across the company towards the adoption of GitOps,
+  continuous delivery, observability tooling, and a reliability
+  framework.
+- Planned the project for and promoted adoption of FluxCD GitOps
+  deployment tooling.
+- Managing a team of four SREs and two Infrastructure Engineers, hired
+  and onboarded each.
+- Built out security and cost reporting for team operations.
 
 #### Site Reliability Engineer
 July 2019 – January 2021
-- Spearheaded the build out and standardization of the deployment of all
-  our Kubernetes clusters using Kops, Bash scripting, and Helm charts.
-- Migrated the company from TravisCI to Jenkins with Kaniko on
-  Kubernetes, then from Jenkins to GitHub Actions.
-- Was responsible for maintaining and building out all Terraform
-  modules.
-- Participated in 24/7 on-call rotation and responded to major security
-  and site downtime incidents.
+- Led the effort to migrate the company’s build processes from Jenkins
+  to GitHub Actions.
+- Migrated Golang backend from EC2 managed with Terraform to Kubernetes
+  with kOps and Helm.
+- Participated in and set standards for 24/7 on-call rotation and
+  incident response.
+- Wrote several tools in Bash to make deployments easier for teams.
 
 #### Infrastructure Engineer
-August 2018 – July 2019
-- Implemented a bare metal Postgres 11 instance setup and tuned from
-  scratch. Built automation of surrounding data transport processes w/
-  Docker and Python AWS Lambda serverless functions.
-- Assisted in converting our development environments from Hashicorp
-  Vagrant to Docker.
-- Administered and wrote deployment tooling using Terraform for the
-  Niche.com web application stack in AWS.
-
-#### Associate Infrastructure Engineer
-August 2017 – July 2018
+August 2017 – July 2019
+- Set up a bare metal Postgres instance and tuned from scratch, then
+  automated surrounding data transport processes w/ Docker, Golang,
+  Python, and AWS Lambda serverless functions.
+- Coded and maintained Terraform-managed Production web application
+  stack in AWS.
 
 ### PPG Industries, Pittsburgh, PA
 #### IT Customer Support Analyst
@@ -88,42 +84,53 @@ Skills
 ------
 ------
 
+#### Managerial
+- Agile ceremonies
+- Change management
+- Project management
+- Mentorship and coaching
+- Cost tracking and reporting
+
 #### Main Languages
 - **Proficient**
   - Bash
-  - YAML (Docker Compose, GitHub Actions, Kubernetes, Helm)
-  - Dockerfiles
-  - Terraform and Packer HCL
-
-- **Exposure**
-  - Golang
+  - HCL
+  - Helm chart YAML
+  - Kubernetes YAML
   - Python
-  - Ruby
+
+- **Familiar**
+  - Dart
+  - Golang
+  - Java
   - Rust
 
 #### My Favorite Tools
 - Docker
+- GitHub Actions
 - Helm
 - kOps
+- Prometheus
 - Terraform
-- GitHub Actions
 
 #### Other Software I Use Regularly/Maintain
-- Apache Kafka
-- AWS Products
-- Grafana & Prometheus
-- New Relic
+- Apache Kafka in AWS MSK
+- AWS EC2, Lambda, RDS, VPC
+- Grafana Cloud
+- NGINX
+- Postgres
 - Sumo Logic
 - Ubuntu 22.04
+- Vim
+- VSCode
 
 ## Service Activities
-- Volunteer live sound engineer and young adults leader at Amplify
-  Church City Campus, 2016 – 2022
-- Member of Young Evangelicals for Climate Action (YECA), 2019 –
-  present
 - Volunteer staff at Deer Valley YMCA Camp, occasionally on weekends,
   2010 – present
-- Volunteer producer of Amplify Church City Campus podcasts 2016 – 2019
+- Active member of Young Evangelicals for Climate Action (YECA), 2019 – present
+- Volunteer live sound engineer and young adults leader at Amplify
+  Church, 2016 – 2022
+- Volunteer producer of Amplify Church podcasts 2016 – 2019
 - Volunteer tech coordinator and mentor at the U College Ministry at
   Amplify Church, 2016 – 2019
 
