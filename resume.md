@@ -15,8 +15,11 @@ Work Experience
 
 ### Niche.com, Pittsburgh, PA
 
+#### **Senior Manager, Reliability & Infrastructure Engineering**
+March 2024 – Present
+
 #### **Manager, Site Reliability Engineering**
-January 2021 – Present
+January 2021 – March 2024
 - Creating alignment across the company towards the adoption of GitOps,
   continuous delivery, observability tooling, and a reliability
   framework.
