@@ -13,13 +13,25 @@ Work Experience
 ---------------
 ---------------
 
-### Niche.com, Pittsburgh, PA
+### MoveHQ, Columbus, OH (Remote)
 
-#### **Senior Manager, Reliability & Infrastructure Engineering**
-March 2024 – Present
+#### Senior II DevOps Engineer
+_June 2024 - Present_
+- Using Helm, FluxCD, Terraform (Tofu), and Spacelift to manage and
+  develop 10+ Kubernetes clusters on AWS GovCloud with FedRAMP
+  compliance.
+- Writing and maintaining GitHub Actions to build and ship Docker
+  images, AMIs, and Cloudflare Worker code bundles, as well as running
+  tests across various codebases.
+- Part of the on-call rotation providing 24/7 production support using
+  DataDog to setup logging, monitoring, and alerting capabilities.
 
-#### **Manager, Site Reliability Engineering**
-January 2021 – March 2024
+### Niche.com, Pittsburgh, PA (Remote)
+
+#### Senior Manager, Reliability & Infrastructure Engineering
+_March 2024 – June 2024_
+#### Manager, Site Reliability Engineering
+_January 2021 – March 2024_
 - Creating alignment across the company towards the adoption of GitOps,
   continuous delivery, observability tooling, and a reliability
   framework.
@@ -30,7 +42,7 @@ January 2021 – March 2024
 - Built out security and cost reporting for team operations.
 
 #### Site Reliability Engineer
-July 2019 – January 2021
+_July 2019 – January 2021_
 - Led the effort to migrate the company’s build processes from Jenkins
   to GitHub Actions.
 - Migrated Golang backend from EC2 managed with Terraform to Kubernetes
@@ -40,7 +52,7 @@ July 2019 – January 2021
 - Wrote several tools in Bash to make deployments easier for teams.
 
 #### Infrastructure Engineer
-August 2017 – July 2019
+_August 2017 – July 2019_
 - Set up a bare metal Postgres instance and tuned from scratch, then
   automated surrounding data transport processes w/ Docker, Golang,
   Python, and AWS Lambda serverless functions.
@@ -49,19 +61,19 @@ August 2017 – July 2019
 
 ### PPG Industries, Pittsburgh, PA
 #### IT Customer Support Analyst
-January 2017 – August 2017
+_January 2017 – August 2017_
 
 ### University of Pittsburgh GSPIA IT Dept., Pittsburgh, PA
 #### Student Assistant
-September 2016 – December 2016
+_September 2016 – December 2016_
 
 ### Waynesburg University ITS Helpdesk, Waynesburg, PA
 #### ITS Student Support Specialist
-September 2012 – May 2016
+_September 2012 – May 2016_
 
 ### FBI Center (CJIS), Clarksburg, WV and Pittsburgh FBI Field Office
 #### Student Workforce Trainee
-June 2015 – April 2016
+_June 2015 – April 2016_
 
 Education
 ---------
