@@ -113,6 +113,7 @@ Skills
   - Python
 
 - **Familiar**
+  - SQL
   - Golang
   - JavaScript
   - Ruby
