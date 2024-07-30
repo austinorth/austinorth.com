@@ -17,7 +17,8 @@ Work Experience
 
 #### Senior II DevOps Engineer
 _June 2024 - Present_
-- Using Helm, FluxCD, Terraform (Tofu), and Spacelift to manage and
+
+- Using Helm, FluxCD, Terraform (OpenTofu), and Spacelift to manage and
   develop 10+ Kubernetes clusters on AWS GovCloud with FedRAMP
   compliance.
 - Writing and maintaining GitHub Actions to build and ship Docker
@@ -32,6 +33,7 @@ _June 2024 - Present_
 _March 2024 – June 2024_
 #### Manager, Site Reliability Engineering
 _January 2021 – March 2024_
+
 - Creating alignment across the company towards the adoption of GitOps,
   continuous delivery, observability tooling, and a reliability
   framework.
@@ -41,8 +43,14 @@ _January 2021 – March 2024_
   and onboarded each.
 - Built out security and cost reporting for team operations.
 
+
 #### Site Reliability Engineer
 _July 2019 – January 2021_
+#### Infrastructure Engineer
+_July 2018 – July 2019_
+#### Associate Infrastructure Engineer
+_August 2017 – July 2018_
+
 - Led the effort to migrate the company’s build processes from Jenkins
   to GitHub Actions.
 - Migrated Golang backend from EC2 managed with Terraform to Kubernetes
@@ -50,9 +58,6 @@ _July 2019 – January 2021_
 - Participated in and set standards for 24/7 on-call rotation and
   incident response.
 - Wrote several tools in Bash to make deployments easier for teams.
-
-#### Infrastructure Engineer
-_August 2017 – July 2019_
 - Set up a bare metal Postgres instance and tuned from scratch, then
   automated surrounding data transport processes w/ Docker, Golang,
   Python, and AWS Lambda serverless functions.
@@ -99,6 +104,28 @@ Skills
 ------
 ------
 
+#### Main Languages
+- **Proficient**
+  - HCL
+  - Helm chart YAML
+  - Kubernetes YAML
+  - Bash
+  - Python
+
+- **Familiar**
+  - Golang
+  - JavaScript
+  - Ruby
+  - Rust
+
+#### My Favorite Tools
+- Kubernetes in AWS EKS
+- Docker
+- GitHub Actions
+- Helm
+- Prometheus
+- Terraform
+
 #### Managerial
 - Agile ceremonies
 - Change management
@@ -106,31 +133,12 @@ Skills
 - Mentorship and coaching
 - Cost tracking and reporting
 
-#### Main Languages
-- **Proficient**
-  - Bash
-  - HCL
-  - Helm chart YAML
-  - Kubernetes YAML
-  - Python
-
-- **Familiar**
-  - Dart
-  - Golang
-  - Java
-  - Rust
-
-#### My Favorite Tools
-- Docker
-- GitHub Actions
-- Helm
+#### Software I've Used Regularly/Maintained
 - kOps
-- Prometheus
-- Terraform
-
-#### Other Software I Use Regularly/Maintain
 - Apache Kafka in AWS MSK
 - AWS EC2, Lambda, RDS, VPC
+- Datadog
+- Wiz Cloud Security
 - Grafana Cloud
 - NGINX
 - Postgres
