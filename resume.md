@@ -151,12 +151,8 @@ Skills
 ## Service Activities
 - Volunteer staff at Deer Valley YMCA Camp, occasionally on weekends,
   2010 – present
-- Active member of Young Evangelicals for Climate Action (YECA), 2019 – present
-- Volunteer live sound engineer and young adults leader at Amplify
-  Church, 2016 – 2022
-- Volunteer producer of Amplify Church podcasts 2016 – 2019
-- Volunteer tech coordinator and mentor at the U College Ministry at
-  Amplify Church, 2016 – 2019
+- Volunteer speaker at Waynesburg University Computer Science Club, 2024
+  – present
 
 ## Scholarships and Awards
 - NFFTY Audience Award for Younger Finland film, October, 2018
@@ -170,4 +166,3 @@ Skills
   Waynesburg University, 2014
 - Rookie of the Year; Deer Valley YMCA Family Camp Summer Staff Award,
   2013
-
