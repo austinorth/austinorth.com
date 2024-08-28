@@ -15,7 +15,7 @@ Work Experience
 
 ### MoveHQ, Columbus, OH (Remote)
 
-#### Senior II DevOps Engineer
+#### Senior DevOps Engineer II
 _June 2024 - Present_
 
 - Using Helm, FluxCD, Terraform (OpenTofu), and Spacelift to manage and
@@ -106,40 +106,39 @@ Skills
 
 #### Main Languages
 - **Proficient**
+  - Bash
   - HCL
   - Helm chart YAML
   - Kubernetes YAML
-  - Bash
   - Python
 
 - **Familiar**
-  - SQL
   - Golang
   - JavaScript
   - Ruby
   - Rust
+  - SQL
 
 #### My Favorite Tools
-- Kubernetes in AWS EKS
 - Docker
 - GitHub Actions
 - Helm
+- Kubernetes in AWS EKS
 - Prometheus
 - Terraform
 
 #### Managerial
 - Agile ceremonies
-- Change management
-- Project management
-- Mentorship and coaching
 - Cost tracking and reporting
+- Change management
+- Mentorship and coaching
+- Project management
 
 #### Software I've Used Regularly/Maintained
-- kOps
 - Apache Kafka in AWS MSK
 - AWS EC2, Lambda, RDS, VPC
 - Datadog
-- Wiz Cloud Security
+- kOps
 - Grafana Cloud
 - NGINX
 - Postgres
@@ -147,6 +146,7 @@ Skills
 - Ubuntu 22.04
 - Vim
 - VSCode
+- Wiz Cloud Security
 
 ## Service Activities
 - Volunteer staff at Deer Valley YMCA Camp, occasionally on weekends,
