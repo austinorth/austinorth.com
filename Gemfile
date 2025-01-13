@@ -32,4 +32,4 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Nokogiri security fix
 gem "nokogiri", ">= 1.13.7"
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
