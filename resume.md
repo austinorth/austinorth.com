@@ -13,10 +13,14 @@ Work Experience
 ---------------
 ---------------
 
+### Machinify, Palo Alto, CA (Remote)
+#### Senior DevOps Engineer
+_March 2025 - Present_
+
 ### MoveHQ, Columbus, OH (Remote)
 
 #### Senior DevOps Engineer II
-_June 2024 - Present_
+_June 2024 - March 2025_
 
 - Using Helm, FluxCD, Terraform (OpenTofu), and Spacelift to manage and
   develop 10+ Kubernetes clusters on AWS GovCloud with FedRAMP
