@@ -1,16 +1,33 @@
 const Home: React.FC = () => {
   return (
     <div>
-      <div className="home-intro">
+      <div className="intro">
         <h1>Austin Orth</h1>
         <h2>DevSecOps & SRE Professional</h2>
-        <p style={{ fontSize: "1.1rem", color: "var(--fg-light2)" }}>
+        <p>
           Your DevSecOps and SRE Guy, Creator of Pittsburgh Tech Beat, M.B.A. w/
           IT Mgmt. Focus, B.S. Comput. Sci., DJ, Producer, Husband
         </p>
+
+        <div className="connect-links">
+          <a
+            href="https://github.com/austinorth"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub
+          </a>
+          <a
+            href="https://linkedin.com/in/austinorth"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            LinkedIn
+          </a>
+        </div>
       </div>
 
-      <div className="content-card">
+      <div className="section">
         <h3>About</h3>
         <p>Hey there! You've found my personal website.</p>
 
@@ -22,26 +39,6 @@ const Home: React.FC = () => {
           Engineers. I live in Pittsburgh with my wife and two cats where I
           spend many days at the ballpark watching the Pirates lose.
         </p>
-
-        <div className="connect-links">
-          <h4>Connect with me:</h4>
-          <div>
-            <a
-              href="https://github.com/austinorth"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              GitHub
-            </a>
-            <a
-              href="https://linkedin.com/in/austinorth"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              LinkedIn
-            </a>
-          </div>
-        </div>
       </div>
     </div>
   );
