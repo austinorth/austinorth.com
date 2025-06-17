@@ -179,68 +179,67 @@ const Resume: React.FC = () => {
         <h2>Skills</h2>
 
         <div style={{ marginBottom: "1.5rem" }}>
-          <h3>Main Languages</h3>
-          <div style={{ marginBottom: "1rem" }}>
-            <h4>Proficient</h4>
-            <ul>
-              <li>Bash</li>
-              <li>HCL</li>
-              <li>Helm chart YAML</li>
-              <li>Kubernetes YAML</li>
-              <li>Python</li>
-            </ul>
-          </div>
+          <h3>Languages - Proficient</h3>
+          <ul>
+            <li>Bash</li>
+            <li>HCL</li>
+            <li>Helm chart YAML</li>
+            <li>Kubernetes YAML</li>
+            <li>Python</li>
+          </ul>
+        </div>
 
-          <div>
-            <h4>Familiar</h4>
-            <ul>
-              <li>Golang</li>
-              <li>JavaScript</li>
-              <li>Ruby</li>
-              <li>Rust</li>
-              <li>SQL</li>
-            </ul>
-          </div>
+        <div style={{ marginBottom: "1.5rem" }}>
+          <h3>Languages - Familiar</h3>
+          <ul>
+            <li>Golang</li>
+            <li>JavaScript</li>
+            <li>Ruby</li>
+            <li>Rust</li>
+            <li>SQL</li>
+          </ul>
         </div>
 
         <div style={{ marginBottom: "1.5rem" }}>
           <h3>My Favorite Tools</h3>
           <ul>
-            <li>Docker</li>
+            <li>FluxCD</li>
             <li>GitHub Actions</li>
             <li>Helm</li>
-            <li>Kubernetes in AWS EKS</li>
+            <li>Kubernetes</li>
             <li>Prometheus</li>
-            <li>Terraform</li>
+            <li>Terraform/OpenTofu</li>
           </ul>
         </div>
 
         <div style={{ marginBottom: "1.5rem" }}>
-          <h3>Managerial</h3>
+          <h3>Managerial Skills</h3>
           <ul>
             <li>Agile ceremonies</li>
             <li>Cost tracking and reporting</li>
-            <li>Change management</li>
             <li>Mentorship and coaching</li>
+            <li>Organizational strategy</li>
             <li>Project management</li>
           </ul>
         </div>
 
         <div>
-          <h3>Software I've Used Regularly/Maintained</h3>
+          <h3>Other Software I Have Used Regularly/Maintained</h3>
           <ul>
-            <li>Apache Kafka in AWS MSK</li>
-            <li>AWS EC2, Lambda, RDS, VPC</li>
-            <li>Datadog</li>
+            <li>Apache Kafka, bare metal and MSK</li>
+            <li>ArgoCD</li>
+            <li>AWS EC2, EKS, Lambda, RDS, VPC</li>
+            <li>Claude 4 Sonnet</li>
+            <li>Crossplane</li>
+            <li>DataDog</li>
             <li>kOps</li>
             <li>Grafana Cloud</li>
+            <li>New Relic</li>
             <li>NGINX</li>
             <li>Postgres</li>
-            <li>Sumo Logic</li>
-            <li>Ubuntu 22.04</li>
             <li>Vim</li>
-            <li>VSCode</li>
             <li>Wiz Cloud Security</li>
+            <li>Zed</li>
           </ul>
         </div>
       </div>
