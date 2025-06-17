@@ -36,8 +36,9 @@ const Home: React.FC = () => {
           experience in cloud infrastructure, Kubernetes, and building reliable
           systems at scale. I also have experience building an SRE program from
           the ground up and managing a team of SREs and Infrastructure
-          Engineers. I live in Pittsburgh with my wife and two cats where I
-          spend many days at the ballpark watching the Pirates lose.
+          Engineers. I live in Pittsburgh with my wife and two cats, where I
+          enjoy making music with friends, discovering new restaurants, and
+          spending many summer evenings at PNC Park watching the Pirates play.
         </p>
       </div>
     </div>
