@@ -10,6 +10,30 @@ const Resume: React.FC = () => {
           <h3>Machinify, Palo Alto, CA (Remote)</h3>
           <h4>Senior DevOps Engineer</h4>
           <div className="job-dates">March 2025 - Present</div>
+          <ul>
+            <li>
+              Using Helm, ArgoCD, and Crossplane to operate and maintain 3 AWS
+              EKS clusters in a multi-account configuration with hundreds of
+              nodes ingesting and serving petabytes of data.
+            </li>
+            <li>
+              Wielding Consul, Ansible, and Docker to refactor and migrate Java
+              applications from VMs to Kubernetes.
+            </li>
+            <li>
+              Writing Python tooling to deploy and update custom PyTorch AI/ML
+              models automatically.
+            </li>
+            <li>
+              Participating in the on-call rotation providing 24/7 production
+              support leveraging Grafana, Loki, Alloy, Mimir, Prometheus, and
+              Tempo for observability.
+            </li>
+            <li>
+              Leveraging Zed and Claude 4 to accelerate personal engineering
+              capabilities in all of the above areas.
+            </li>
+          </ul>
         </div>
 
         <div className="job">
@@ -18,17 +42,17 @@ const Resume: React.FC = () => {
           <div className="job-dates">June 2024 - March 2025</div>
           <ul>
             <li>
-              Using Helm, FluxCD, Terraform (OpenTofu), and Spacelift to manage
+              Used Helm, FluxCD, Terraform (OpenTofu), and Spacelift to manage
               and develop 10+ Kubernetes clusters on AWS GovCloud with FedRAMP
               compliance.
             </li>
             <li>
-              Writing and maintaining GitHub Actions to build and ship Docker
+              Wrote and maintained GitHub Actions to build and ship Docker
               images, AMIs, and Cloudflare Worker code bundles, as well as
               running tests across various codebases.
             </li>
             <li>
-              Part of the on-call rotation providing 24/7 production support
+              Was part of the on-call rotation providing 24/7 production support
               using DataDog to setup logging, monitoring, and alerting
               capabilities.
             </li>
@@ -43,7 +67,7 @@ const Resume: React.FC = () => {
           <div className="job-dates">January 2021 – March 2024</div>
           <ul>
             <li>
-              Creating alignment across the company towards the adoption of
+              Created alignment across the company towards the adoption of
               GitOps, continuous delivery, observability tooling, and a
               reliability framework.
             </li>
@@ -52,7 +76,7 @@ const Resume: React.FC = () => {
               deployment tooling.
             </li>
             <li>
-              Managing a team of four SREs and two Infrastructure Engineers,
+              Managed a team of four SREs and two Infrastructure Engineers,
               hired and onboarded each.
             </li>
             <li>Built out security and cost reporting for team operations.</li>

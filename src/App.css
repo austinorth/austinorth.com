@@ -1,10 +1,15 @@
+/* Gruvbox Dark Theme - App Specific Styles */
+
 .App {
     text-align: center;
+    background-color: var(--bg-dark0);
+    min-height: 100vh;
 }
 
 .App-logo {
     height: 40vmin;
     pointer-events: none;
+    filter: sepia(100%) saturate(200%) hue-rotate(20deg) brightness(1.1);
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -14,13 +19,19 @@
 }
 
 .App-header {
-    background-color: #282c34;
+    background-color: var(--bg-dark0-hard);
     padding: 20px;
-    color: white;
+    color: var(--fg-light1);
+    border-bottom: 2px solid var(--bg-dark3);
 }
 
 .App-link {
-    color: #61dafb;
+    color: var(--bright-blue);
+    transition: color 0.2s ease;
+}
+
+.App-link:hover {
+    color: var(--blue);
 }
 
 @keyframes App-logo-spin {
@@ -32,7 +43,7 @@
     }
 }
 
-/* Custom styles for this site */
+/* Custom styles for this site with Gruvbox theme */
 body {
     margin: 0;
     font-family:
@@ -42,60 +53,250 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     line-height: 1.6;
+    background-color: var(--bg-dark0);
+    color: var(--fg-light1);
 }
 
 code {
     font-family:
-        source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+        "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas,
+        "Courier New", monospace;
+    background-color: var(--bg-dark1);
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+    color: var(--bright-green);
+    border: 1px solid var(--bg-dark3);
 }
 
+/* Container and Layout */
 .container {
-    max-width: 1000px;
+    max-width: 900px;
     margin: 0 auto;
     padding: 2rem;
     min-height: 100vh;
+    background-color: var(--bg-dark0);
+}
+
+/* Enhanced Navigation Styling */
+nav {
+    margin-bottom: 3rem;
+    padding: 1rem 0;
+    border-bottom: 2px solid var(--bg-dark3);
+    background: linear-gradient(
+        135deg,
+        var(--bg-dark0-soft) 0%,
+        var(--bg-dark1) 100%
+    );
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
 }
 
 nav ul {
     list-style: none;
     padding: 0;
     display: flex;
-    gap: 2rem;
-    margin-bottom: 2rem;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 1rem;
+    gap: 1.5rem;
+    margin: 0;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+nav li {
+    position: relative;
 }
 
 nav a {
     text-decoration: none;
-    font-weight: 500;
-    color: #0066cc;
-    padding: 0.25rem 1rem;
-    border-radius: 4px;
-    transition: background-color 0.2s;
-    margin-bottom: 0.25rem;
-    display: inline-block;
+    font-weight: 600;
+    color: var(--fg-light2);
+    padding: 0.75rem 1.5rem;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    background: linear-gradient(
+        135deg,
+        var(--bg-dark1) 0%,
+        var(--bg-dark2) 100%
+    );
+    border: 1px solid var(--bg-dark3);
+    position: relative;
+    overflow: hidden;
+}
+
+nav a::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+        90deg,
+        transparent,
+        var(--bright-orange),
+        transparent
+    );
+    transition: left 0.5s;
+    opacity: 0.1;
+}
+
+nav a:hover::before {
+    left: 100%;
 }
 
 nav a:hover {
-    background-color: #f0f8ff;
+    background: linear-gradient(
+        135deg,
+        var(--bg-dark2) 0%,
+        var(--bg-dark3) 100%
+    );
+    border-color: var(--bright-orange);
+    color: var(--bright-orange);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(254, 128, 25, 0.2);
 }
 
-@media (prefers-color-scheme: dark) {
-    body {
-        background-color: #1a1a1a;
-        color: #e0e0e0;
+nav a:active {
+    transform: translateY(0);
+}
+
+/* Home Page Enhancements */
+.home-intro {
+    text-align: center;
+    margin-bottom: 3rem;
+    padding: 2rem;
+    background: linear-gradient(
+        135deg,
+        var(--bg-dark0-soft) 0%,
+        var(--bg-dark1) 100%
+    );
+    border-radius: 12px;
+    border: 1px solid var(--bg-dark3);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+}
+
+.connect-links {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.connect-links a {
+    display: inline-block;
+    margin: 0 1rem;
+    padding: 0.5rem 1rem;
+    background-color: var(--bg-dark1);
+    border: 1px solid var(--bg-dark3);
+    border-radius: 6px;
+    transition: all 0.2s ease;
+}
+
+.connect-links a:hover {
+    background-color: var(--bg-dark2);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Content Cards */
+.content-card {
+    background: linear-gradient(
+        135deg,
+        var(--bg-dark0-soft) 0%,
+        var(--bg-dark1) 100%
+    );
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 12px;
+    border: 1px solid var(--bg-dark3);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+.content-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+}
+
+/* Responsive Navigation */
+@media (max-width: 768px) {
+    nav {
+        padding: 0.5rem;
     }
 
     nav ul {
-        border-bottom-color: #333;
+        gap: 1rem;
+        flex-direction: column;
+        align-items: center;
     }
 
     nav a {
-        color: #66b3ff;
+        padding: 0.6rem 1.2rem;
+        font-size: 0.9rem;
+        width: 200px;
+        text-align: center;
     }
 
-    nav a:hover {
-        background-color: #2a2a2a;
+    .container {
+        padding: 1rem;
+    }
+
+    .home-intro,
+    .content-card {
+        padding: 1.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 0.5rem;
+    }
+
+    nav {
+        margin-bottom: 2rem;
+    }
+
+    nav a {
+        width: 100%;
+        max-width: 250px;
+    }
+
+    .connect-links a {
+        display: block;
+        margin: 0.5rem auto;
+        width: 150px;
+    }
+}
+
+/* Focus and Accessibility */
+nav a:focus,
+.connect-links a:focus {
+    outline: 2px solid var(--bright-yellow);
+    outline-offset: 2px;
+}
+
+/* Print Styles */
+@media print {
+    body {
+        background: white !important;
+        color: black !important;
+    }
+
+    nav {
+        display: none;
+    }
+
+    .container {
+        max-width: none;
+        padding: 1rem;
+    }
+
+    .content-card,
+    .home-intro {
+        background: white !important;
+        border: 1px solid black !important;
+        box-shadow: none !important;
     }
 }
