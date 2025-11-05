@@ -1,18 +1,18 @@
-/* Gruvbox Color Palette - Minimalist Application */
+/* Everforest Dark Color Palette - Nature-inspired theme */
 :root {
-    /* Core gruvbox colors - simplified palette */
-    --bg-dark: #282828;
-    --bg-light: #3c3836;
-    --bg-lighter: #504945;
+    /* Core everforest colors - earthy, forest-inspired palette */
+    --bg-dark: #2b3339;
+    --bg-light: #323c41;
+    --bg-lighter: #3a454a;
 
-    --fg-primary: #ebdbb2;
-    --fg-secondary: #d5c4a1;
-    --fg-muted: #a89984;
+    --fg-primary: #d3c6aa;
+    --fg-secondary: #d3c6aa;
+    --fg-muted: #859289;
 
-    --accent-orange: #fe8019;
-    --accent-blue: #83a598;
-    --accent-green: #b8bb26;
-    --accent-yellow: #fabd2f;
+    --accent-orange: #e69875;
+    --accent-blue: #7fbbb3;
+    --accent-green: #a7c080;
+    --accent-yellow: #dbbc7f;
 
     /* Typography */
     font-family:
@@ -369,10 +369,10 @@ nav a:hover {
         --fg-primary: #000000;
         --fg-secondary: #333333;
         --fg-muted: #666666;
-        --accent-orange: #d65d0e;
-        --accent-blue: #458588;
-        --accent-green: #98971a;
-        --accent-yellow: #b57614;
+        --accent-orange: #e56b6f;
+        --accent-blue: #5b9fa6;
+        --accent-green: #7e9b6d;
+        --accent-yellow: #c3a34b;
     }
 
     body {
