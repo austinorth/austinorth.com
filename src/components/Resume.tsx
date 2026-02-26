@@ -14,25 +14,27 @@ const Resume: React.FC = () => {
           <div className="job-dates">March 2025 - January 2026</div>
           <ul>
             <li>
-              Using Helm, ArgoCD, and Crossplane to operate and maintain 3 AWS
-              EKS clusters in a multi-account configuration with hundreds of
-              nodes ingesting and serving petabytes of data.
+              Using Helm, ArgoCD, Terraform, and Crossplane to operate and
+              maintain 3 AWS EKS clusters in a multi-account configuration with
+              hundreds of nodes ingesting and serving petabytes of data.
             </li>
             <li>
-              Wielding Consul, Ansible, and Docker to refactor and migrate Java
-              applications from VMs to Kubernetes.
+              Refactoring Ansible playbooks to containerize and migrate Java
+              applications to Kubernetes.
             </li>
             <li>
-              Writing Python tooling to deploy and update custom PyTorch AI/ML
-              models automatically.
+              Writing Python and Docker tooling to deploy and update custom
+              AI/ML models automatically.
             </li>
             <li>
-              Participating in the on-call rotation providing 24/7 production
-              support leveraging Grafana, Loki, Alloy, Mimir, Prometheus, and
-              Tempo for observability.
+              Managing the company's Azure AI Foundry for LLM access.
             </li>
             <li>
-              Leveraging Zed and Claude 4 to accelerate personal engineering
+              Regularly on-call, providing 24/7 production support with Grafana,
+              Loki, and Prometheus metrics.
+            </li>
+            <li>
+              Using Claude Code with Opus 4.6, accelerating my engineering
               capabilities in all of the above areas.
             </li>
           </ul>
@@ -154,7 +156,7 @@ const Resume: React.FC = () => {
           <ul>
             <li>Graduated September 2023</li>
             <li>Focus in IT Management</li>
-            <li>Honor Roll; GPA 4.0</li>
+            <li>Academic Dean's List; Honors; GPA 4.0</li>
           </ul>
         </div>
 
@@ -231,17 +233,18 @@ const Resume: React.FC = () => {
             <li>Apache Kafka, bare metal and MSK</li>
             <li>ArgoCD</li>
             <li>AWS EC2, EKS, Lambda, RDS, VPC</li>
-            <li>Claude 4 Sonnet</li>
+            <li>Azure AI Foundry</li>
+            <li>Claude Code</li>
             <li>Crossplane</li>
             <li>DataDog</li>
-            <li>kOps</li>
             <li>Grafana Cloud</li>
+            <li>kOps</li>
+            <li>neovim w/ tmux</li>
             <li>New Relic</li>
             <li>NGINX</li>
             <li>Postgres</li>
-            <li>Vim</li>
+            <li>Sumo Logic</li>
             <li>Wiz Cloud Security</li>
-            <li>Zed</li>
           </ul>
         </div>
       </div>
