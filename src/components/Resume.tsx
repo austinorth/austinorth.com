@@ -8,9 +8,11 @@ const Resume: React.FC = () => {
 
         <div className="job">
           <h3>Machinify, Palo Alto, CA (Remote)</h3>
-          <h4>Senior Site Reliability Engineer L5</h4>
-          <div className="job-dates">January 2026 - Present</div>
-          <h4>Senior DevOps Engineer L5</h4>
+          <h4>Staff Site Reliability Engineer</h4>
+          <div className="job-dates">March 2026 - Present</div>
+          <h4>Senior Site Reliability Engineer</h4>
+          <div className="job-dates">January 2026 - March 2026</div>
+          <h4>Senior DevOps Engineer</h4>
           <div className="job-dates">March 2025 - January 2026</div>
           <ul>
             <li>
