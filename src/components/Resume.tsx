@@ -21,8 +21,8 @@ const Resume: React.FC = () => {
               hundreds of nodes ingesting and serving petabytes of data.
             </li>
             <li>
-              Refactoring Ansible playbooks to containerize and migrate Java
-              applications to Kubernetes.
+              Refactoring Ansible playbooks to containerize and migrate
+              Java/Scala applications to Kubernetes.
             </li>
             <li>
               Writing Python and Docker tooling to deploy and update custom
@@ -108,9 +108,6 @@ const Resume: React.FC = () => {
               incident response.
             </li>
             <li>
-              Wrote several tools in Bash to make deployments easier for teams.
-            </li>
-            <li>
               Set up a bare metal Postgres instance and tuned from scratch, then
               automated surrounding data transport processes w/ Docker, Golang,
               Python, and AWS Lambda serverless functions.
@@ -126,6 +123,18 @@ const Resume: React.FC = () => {
           <h3>PPG Industries, Pittsburgh, PA</h3>
           <h4>IT Customer Support Analyst</h4>
           <div className="job-dates">January 2017 – August 2017</div>
+          <ul>
+            <li>
+              Provided international email and phone technical support to PPG
+              employees, including Citrix, SAP, Oracle, and Active Directory
+              account maintenance.
+            </li>
+            <li>
+              Worked with higher level teams to troubleshoot and resolve complex
+              issues with technical infrastructure. Taught myself Ruby during
+              personal development time.
+            </li>
+          </ul>
         </div>
 
         <div className="job">
@@ -235,7 +244,6 @@ const Resume: React.FC = () => {
             <li>Apache Kafka, bare metal and MSK</li>
             <li>ArgoCD</li>
             <li>AWS EC2, EKS, Lambda, RDS, VPC</li>
-            <li>Azure AI Foundry</li>
             <li>Claude Code</li>
             <li>Crossplane</li>
             <li>DataDog</li>
