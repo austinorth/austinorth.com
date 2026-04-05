@@ -5,9 +5,18 @@
         <link rel="icon" type="image/svg+xml" href="/gruvbox-favicon.svg" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Austin Orth - DevSecOps & SRE | Gruvbox Dark</title>
+        <script>
+            // Restore SPA route from GitHub Pages 404 redirect
+            (function () {
+                var redirect = new URLSearchParams(window.location.search).get('p');
+                if (redirect) {
+                    history.replaceState(null, '', redirect);
+                }
+            })();
+        </script>
     </head>
     <body>
-        <div id="root"></div>
-        <script type="module" src="/src/main.tsx"></script>
+        <app-shell></app-shell>
+        <script type="module" src="/src/main.ts"></script>
     </body>
 </html>
